@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bnv_tab01"
+        android:title="tab01"
+        android:icon="@drawable/ic_tab01_24"/>
+
+    <item android:id="@+id/bnv_tab02"
+        android:title="tab02"
+        android:icon="@drawable/ic_tab01_24"/>
+
+    <item android:id="@+id/bnv_tab03"
+        android:title="tab03"
+        android:icon="@drawable/ic_tab01_24"/>
+
+</menu>
